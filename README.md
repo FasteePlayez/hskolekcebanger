@@ -21,5 +21,5 @@ Odebrání balíčků
 Odhlášení 
 
 +admin možnosti 
-###Licence
+### Licence
 Kód je volně dostupný pro kohokoliv, kdo je dostatečně odvážný na to ho použít 
