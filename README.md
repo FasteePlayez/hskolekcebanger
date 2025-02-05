@@ -1,2 +1,2 @@
-# hskolekcebanger
-bajecna hs kolekce
+# The Velká Úžasná Stránka Hearthstone Kolekce
+
