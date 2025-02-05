@@ -1,7 +1,7 @@
 # The Velká Úžasná Stránka Hearthstone Kolekce
 Stránka pro ukládání vašich hearthstone balíčků 
 
-**Popis**
+***Popis***
 
 TVUSHC je můj středoškolský projekt 3. ročníku 1. pololetí, který vám umožňuje ukládat si kódy vašich hearthstone balíčků. Aby se vám to jednoduše hledalo, tak je zde login a register system. Je zde použita databáze, kterou si budete muset vytvořit vlastní a přepsat proměnné pokud si budete dělat vlastní, avšak zbytek by měl být funkční 
 ## Hlavní Funkce Stránky
