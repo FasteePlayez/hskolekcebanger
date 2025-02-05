@@ -25,3 +25,6 @@ TVUSHC je můj středoškolský projekt 3. ročníku 1. pololetí, který vám u
 +admin možnosti 
 ## Licence
 Kód je volně dostupný pro kohokoliv, kdo je dostatečně odvážný na to ho použít 
+
+## Odkaz na stránku
+https://app.opent2.com/it3a/bartosp/projekt1/projekt_hs/
